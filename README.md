@@ -1,5 +1,5 @@
 <!--
-  README for Viraj Jayasiri
+  README for Viraj Jayasirix
   → Replace YOUR_USERNAME with your GitHub username
   → Replace GIF / image URLs with your own if you prefer
 -->
